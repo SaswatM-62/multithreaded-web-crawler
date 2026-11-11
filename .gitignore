@@ -1,0 +1,45 @@
+# Visual Studio caches and per-user settings
+.vs/
+ipch/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.db-*
+*.VC.opendb
+*.sdf
+*.opensdf
+
+# Build output directories (at solution or project level)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+
+# Compiled binaries and intermediate files
+*.exe
+*.dll
+*.obj
+*.pch
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.idb
+*.exp
+*.tlog
+*.lastbuildstate
+*.exe.recipe
+
+# Editor backup files and operating-system metadata
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep source, solution/project files, READMEs, reports, and input datasets.
+# Do not ignore *.lib: prebuilt libraries may be required dependencies.
